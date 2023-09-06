@@ -1,10 +1,10 @@
-### Hi there
+### Hi there, here's what you need to know.
 
 About Me:
 
 - I’m currently learning: ...
 - How to reach me: ...
-- Fun fact: ...
+- Fun facts: ...
 
 ##
 
@@ -19,7 +19,7 @@ About Me:
 ##
 
 <h3 align="left">Engines:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="115" height="115"/>
+<img src="https://s26.q4cdn.com/977690160/files/design/U_Logo_White_RGB.png" width="109" height="38"/>
 
 ##
 
